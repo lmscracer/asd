@@ -1,1 +1,1 @@
-javascript:import(“//100.up.railway.app/f1.js”)
+javascript:import(“//328.up.railway.app/f1.js”)
